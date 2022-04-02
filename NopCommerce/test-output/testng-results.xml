@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29667" started-at="2022-04-02T06:12:53Z" finished-at="2022-04-02T06:13:23Z">
+    <groups>
+    </groups>
+    <test name="NopCommerce" duration-ms="29667" started-at="2022-04-02T06:12:53Z" finished-at="2022-04-02T06:13:23Z">
+      <class name="tests.LoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.LoginTest@7e0b85f9]" name="setup" is-config="true" duration-ms="2667" started-at="2022-04-02T06:13:03Z" finished-at="2022-04-02T06:13:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:tests.LoginTest@7e0b85f9]" name="logintest" duration-ms="3902" started-at="2022-04-02T06:13:06Z" finished-at="2022-04-02T06:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.LoginTest@7e0b85f9]" name="teardown" is-config="true" duration-ms="660" started-at="2022-04-02T06:13:10Z" finished-at="2022-04-02T06:13:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.LoginDDTTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="setup" is-config="true" duration-ms="4019" started-at="2022-04-02T06:12:53Z" finished-at="2022-04-02T06:12:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="855" started-at="2022-04-02T06:12:59Z" data-provider="LoginData" finished-at="2022-04-02T06:12:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1233]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="783" started-at="2022-04-02T06:12:59Z" data-provider="LoginData" finished-at="2022-04-02T06:13:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qAbUzyj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="717" started-at="2022-04-02T06:13:00Z" data-provider="LoginData" finished-at="2022-04-02T06:13:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bAdYvyb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="843" started-at="2022-04-02T06:13:01Z" data-provider="LoginData" finished-at="2022-04-02T06:13:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jahetAp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="823" started-at="2022-04-02T06:13:02Z" data-provider="LoginData" finished-at="2022-04-02T06:13:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tytUreg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="teardown" is-config="true" duration-ms="656" started-at="2022-04-02T06:13:03Z" finished-at="2022-04-02T06:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.LoginDDTTest -->
+      <class name="tests.AddCustomerTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.AddCustomerTest@63355449]" name="setup" is-config="true" duration-ms="1921" started-at="2022-04-02T06:13:11Z" finished-at="2022-04-02T06:13:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addcustomer()[pri:0, instance:tests.AddCustomerTest@63355449]" name="addcustomer" duration-ms="10341" started-at="2022-04-02T06:13:12Z" finished-at="2022-04-02T06:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.AddCustomerTest@63355449]" name="teardown" is-config="true" duration-ms="1" started-at="2022-04-02T06:13:23Z" finished-at="2022-04-02T06:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.AddCustomerTest -->
+    </test> <!-- NopCommerce -->
+  </suite> <!-- Suite -->
+</testng-results>

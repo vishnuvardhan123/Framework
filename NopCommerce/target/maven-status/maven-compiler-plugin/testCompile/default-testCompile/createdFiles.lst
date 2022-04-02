@@ -1,0 +1,4 @@
+utilities\ReadConfiguration.class
+tests\LoginTest.class
+pages\Loginpage.class
+tests\BaseClass.class

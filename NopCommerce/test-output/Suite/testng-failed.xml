@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="NopCommerce(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="tests.LoginDDTTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="loginDDT" invocation-numbers="0 1 2 3 4"/>
+        </methods>
+      </class> <!-- tests.LoginDDTTest -->
+    </classes>
+  </test> <!-- NopCommerce(failed) -->
+</suite> <!-- Failed suite [Suite] -->

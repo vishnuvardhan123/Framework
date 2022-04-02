@@ -1,0 +1,47 @@
+2022-03-31 22:07:12,939 - ebanking -INFO - ******Login Test Started*******
+2022-03-31 22:07:23,576 - ebanking -INFO - ******Login Test Passed*******
+2022-03-31 22:07:23,587 - ebanking -INFO - ******Login Test Passed*******
+2022-03-31 22:07:26,059 - ebanking -INFO - ******Login Test Started*******
+2022-03-31 22:07:29,828 - ebanking -INFO - ******Providing Customer Details*******
+2022-03-31 22:07:35,918 - ebanking -INFO - ******AddCustomerTest Passed*******
+2022-03-31 22:11:12,946 - ebanking -INFO - ******Login Test Started*******
+2022-03-31 22:11:16,634 - ebanking -INFO - ******Login Test Passed*******
+2022-03-31 22:11:16,650 - ebanking -INFO - ******Login Test Passed*******
+2022-03-31 22:11:20,172 - ebanking -INFO - ******Login Test Started*******
+2022-03-31 22:11:23,651 - ebanking -INFO - ******Providing Customer Details*******
+2022-03-31 22:11:29,533 - ebanking -INFO - ******AddCustomerTest Passed*******
+2022-04-01 10:48:30,468 - ebanking -INFO - ******Login Test Started*******
+2022-04-01 10:48:49,582 - ebanking -INFO - ******Login Test Passed*******
+2022-04-01 10:48:49,591 - ebanking -INFO - ******Login Test Passed*******
+2022-04-01 10:49:08,439 - ebanking -INFO - ******Login Test Started*******
+2022-04-01 10:49:12,000 - ebanking -INFO - ******Providing Customer Details*******
+2022-04-01 10:49:34,362 - ebanking -INFO - ******AddCustomerTest Passed*******
+2022-04-02 10:59:37,222 - ebanking -INFO - ******Login Test Started*******
+2022-04-02 10:59:45,814 - ebanking -INFO - ******Login Test Passed*******
+2022-04-02 10:59:45,828 - ebanking -INFO - ******Login Test Passed*******
+2022-04-02 10:59:49,356 - ebanking -INFO - ******Login Test Started*******
+2022-04-02 10:59:53,193 - ebanking -INFO - ******Providing Customer Details*******
+2022-04-02 11:00:02,704 - ebanking -INFO - ******AddCustomerTest Passed*******
+2022-04-02 11:02:10,106 - ebanking -INFO - ******Login Test Started*******
+2022-04-02 11:02:14,976 - ebanking -INFO - ******Login Test Passed*******
+2022-04-02 11:02:14,991 - ebanking -INFO - ******Login Test Passed*******
+2022-04-02 11:02:17,802 - ebanking -INFO - ******Login Test Started*******
+2022-04-02 11:02:20,699 - ebanking -INFO - ******Providing Customer Details*******
+2022-04-02 11:02:27,442 - ebanking -INFO - ******AddCustomerTest Passed*******
+2022-04-02 11:40:32,397 - ebanking -INFO - ******Login Test Started*******
+2022-04-02 11:40:36,394 - ebanking -INFO - ******Login Test Passed*******
+2022-04-02 11:40:36,405 - ebanking -INFO - ******Login Test Passed*******
+2022-04-02 11:40:39,094 - ebanking -INFO - ******Login Test Started*******
+2022-04-02 11:40:42,950 - ebanking -INFO - ******Providing Customer Details*******
+2022-04-02 11:40:55,656 - ebanking -INFO - ******AddCustomerTest Passed*******
+2022-04-02 11:42:59,946 - ebanking -INFO - ******Login DDT Test Passed*******
+2022-04-02 11:43:00,757 - ebanking -INFO - ******Login DDT Test Passed*******
+2022-04-02 11:43:01,476 - ebanking -INFO - ******Login DDT Test Passed*******
+2022-04-02 11:43:02,320 - ebanking -INFO - ******Login DDT Test Passed*******
+2022-04-02 11:43:03,146 - ebanking -INFO - ******Login DDT Test Passed*******
+2022-04-02 11:43:06,475 - ebanking -INFO - ******Login Test Started*******
+2022-04-02 11:43:10,364 - ebanking -INFO - ******Login Test Passed*******
+2022-04-02 11:43:10,376 - ebanking -INFO - ******Login Test Passed*******
+2022-04-02 11:43:12,962 - ebanking -INFO - ******Login Test Started*******
+2022-04-02 11:43:16,812 - ebanking -INFO - ******Providing Customer Details*******
+2022-04-02 11:43:23,301 - ebanking -INFO - ******AddCustomerTest Passed*******
