@@ -9,16 +9,21 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		
 //		features = "./Features/Loginvalidate.feature",
-		features = "./Features/HomePage.feature",
+		features = "./src/test/java/features",
+		strict = true,
 		glue={"stepdefinations"},
-		tags= {"not @regression and  @sanity"},
+//		tags= {"not @regression and  @sanity"},
 		
 		dryRun = false,
 		monochrome=true,
 		
-		plugin= {"pretty", "html:test-output" , "json:target/cucumber.json","com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
+//		plugin= {"pretty", "html:test-output" , "json:target/cucumber.json",
+//			"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"}
 		
-//		plugin= {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", "json:target/cucumber-report.json"}
+		plugin = { "pretty", "html:test-output", "json:target/cucumber.json",
+		 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter: "}	
+		
+		//plugin= {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", "json:target/cucumber-report.json"}
 		
 		)
 

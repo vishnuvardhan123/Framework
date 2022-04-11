@@ -45,3 +45,19 @@
 2022-04-02 11:43:12,962 [main] INFO ebanking - ******Login Test Started*******
 2022-04-02 11:43:16,812 [main] INFO ebanking - ******Providing Customer Details*******
 2022-04-02 11:43:23,301 [main] INFO ebanking - ******AddCustomerTest Passed*******
+2022-04-08 23:38:41,987 [main] INFO ebanking - ******Login Test Started*******
+2022-04-08 23:38:45,849 [main] INFO ebanking - ******Login Test Passed*******
+2022-04-08 23:38:45,864 [main] INFO ebanking - ******Login Test Passed*******
+2022-04-08 23:38:50,013 [main] INFO ebanking - ******Login DDT Test Passed*******
+2022-04-08 23:38:50,833 [main] INFO ebanking - ******Login DDT Test Passed*******
+2022-04-08 23:38:51,647 [main] INFO ebanking - ******Login DDT Test Passed*******
+2022-04-08 23:38:52,338 [main] INFO ebanking - ******Login DDT Test Passed*******
+2022-04-08 23:38:53,166 [main] INFO ebanking - ******Login DDT Test Passed*******
+2022-04-08 23:41:20,184 [main] INFO ebanking - ******Login Test Started*******
+2022-04-08 23:41:24,085 [main] INFO ebanking - ******Login Test Passed*******
+2022-04-08 23:41:24,099 [main] INFO ebanking - ******Login Test Passed*******
+2022-04-08 23:41:27,932 [main] INFO ebanking - ******Login DDT Test Passed*******
+2022-04-08 23:41:28,658 [main] INFO ebanking - ******Login DDT Test Passed*******
+2022-04-08 23:41:29,427 [main] INFO ebanking - ******Login DDT Test Passed*******
+2022-04-08 23:41:30,275 [main] INFO ebanking - ******Login DDT Test Passed*******
+2022-04-08 23:41:31,082 [main] INFO ebanking - ******Login DDT Test Passed*******

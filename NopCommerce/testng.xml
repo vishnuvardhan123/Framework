@@ -10,10 +10,9 @@
  <test thread-count="5" name="NopCommerce">
 <parameter name="browser" value="chrome" />
 <classes> 
-<class name="tests.LoginDDTTest" />
 <class name="tests.LoginTest" />
-<class name="tests.AddCustomerTest" />
-
+<!--class name="tests.AddCustomerTest" />-->
+<class name="tests.LoginDDTTest" />
 </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

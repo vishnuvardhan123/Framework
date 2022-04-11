@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="29667" started-at="2022-04-02T06:12:53Z" finished-at="2022-04-02T06:13:23Z">
+  <suite name="Suite" duration-ms="15296" started-at="2022-04-08T18:11:16Z" finished-at="2022-04-08T18:11:31Z">
     <groups>
     </groups>
-    <test name="NopCommerce" duration-ms="29667" started-at="2022-04-02T06:12:53Z" finished-at="2022-04-02T06:13:23Z">
+    <test name="NopCommerce" duration-ms="15296" started-at="2022-04-08T18:11:16Z" finished-at="2022-04-08T18:11:31Z">
       <class name="tests.LoginTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.LoginTest@7e0b85f9]" name="setup" is-config="true" duration-ms="2667" started-at="2022-04-02T06:13:03Z" finished-at="2022-04-02T06:13:06Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.LoginTest@6a400542]" name="setup" is-config="true" duration-ms="3601" started-at="2022-04-08T18:11:16Z" finished-at="2022-04-08T18:11:20Z">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="logintest()[pri:0, instance:tests.LoginTest@7e0b85f9]" name="logintest" duration-ms="3902" started-at="2022-04-02T06:13:06Z" finished-at="2022-04-02T06:13:10Z">
+        <test-method status="PASS" signature="logintest()[pri:0, instance:tests.LoginTest@6a400542]" name="logintest" duration-ms="3929" started-at="2022-04-08T18:11:20Z" finished-at="2022-04-08T18:11:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.LoginTest@7e0b85f9]" name="teardown" is-config="true" duration-ms="660" started-at="2022-04-02T06:13:10Z" finished-at="2022-04-02T06:13:11Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.LoginTest@6a400542]" name="teardown" is-config="true" duration-ms="664" started-at="2022-04-08T18:11:24Z" finished-at="2022-04-08T18:11:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- tests.LoginTest -->
       <class name="tests.LoginDDTTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="setup" is-config="true" duration-ms="4019" started-at="2022-04-02T06:12:53Z" finished-at="2022-04-02T06:12:57Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="setup" is-config="true" duration-ms="1819" started-at="2022-04-08T18:11:24Z" finished-at="2022-04-08T18:11:26Z">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="855" started-at="2022-04-02T06:12:59Z" data-provider="LoginData" finished-at="2022-04-02T06:12:59Z">
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="699" started-at="2022-04-08T18:11:27Z" data-provider="LoginData" finished-at="2022-04-08T18:11:27Z">
           <params>
             <param index="0">
               <value>
@@ -55,7 +55,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="783" started-at="2022-04-02T06:12:59Z" data-provider="LoginData" finished-at="2022-04-02T06:13:00Z">
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="724" started-at="2022-04-08T18:11:27Z" data-provider="LoginData" finished-at="2022-04-08T18:11:28Z">
           <params>
             <param index="0">
               <value>
@@ -71,7 +71,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="717" started-at="2022-04-02T06:13:00Z" data-provider="LoginData" finished-at="2022-04-02T06:13:01Z">
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="767" started-at="2022-04-08T18:11:28Z" data-provider="LoginData" finished-at="2022-04-08T18:11:29Z">
           <params>
             <param index="0">
               <value>
@@ -87,7 +87,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="843" started-at="2022-04-02T06:13:01Z" data-provider="LoginData" finished-at="2022-04-02T06:13:02Z">
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="847" started-at="2022-04-08T18:11:29Z" data-provider="LoginData" finished-at="2022-04-08T18:11:30Z">
           <params>
             <param index="0">
               <value>
@@ -103,7 +103,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="823" started-at="2022-04-02T06:13:02Z" data-provider="LoginData" finished-at="2022-04-02T06:13:03Z">
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="loginDDT" duration-ms="806" started-at="2022-04-08T18:11:30Z" data-provider="LoginData" finished-at="2022-04-08T18:11:31Z">
           <params>
             <param index="0">
               <value>
@@ -119,32 +119,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="teardown" is-config="true" duration-ms="656" started-at="2022-04-02T06:13:03Z" finished-at="2022-04-02T06:13:03Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.LoginDDTTest@6580cfdd]" name="teardown" is-config="true" duration-ms="654" started-at="2022-04-08T18:11:31Z" finished-at="2022-04-08T18:11:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- tests.LoginDDTTest -->
-      <class name="tests.AddCustomerTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:tests.AddCustomerTest@63355449]" name="setup" is-config="true" duration-ms="1921" started-at="2022-04-02T06:13:11Z" finished-at="2022-04-02T06:13:12Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="addcustomer()[pri:0, instance:tests.AddCustomerTest@63355449]" name="addcustomer" duration-ms="10341" started-at="2022-04-02T06:13:12Z" finished-at="2022-04-02T06:13:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addcustomer -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.AddCustomerTest@63355449]" name="teardown" is-config="true" duration-ms="1" started-at="2022-04-02T06:13:23Z" finished-at="2022-04-02T06:13:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- tests.AddCustomerTest -->
     </test> <!-- NopCommerce -->
   </suite> <!-- Suite -->
 </testng-results>
